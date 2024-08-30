@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://bielbind.github.io/sitemap/sitemap.txt
